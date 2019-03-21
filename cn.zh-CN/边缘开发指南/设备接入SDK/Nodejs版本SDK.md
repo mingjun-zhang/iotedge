@@ -1,6 +1,6 @@
 # Nodejs版本SDK {#concept_ycs_pcp_32b .concept}
 
-设备接入SDK用于您在边缘计算节点上开发驱动，将设备连接到边缘计算节点，进而连接到物联网平台。设备接入SDK分为Node.js版本和Python版本，Node.js版本开源的SDK源码请见[开源的Node.js库](https://github.com/aliyun/linkedge-thing-access-sdk-nodejs)。
+设备接入SDK用于您在边缘计算节点上开发驱动，将设备连接到边缘计算节点，进而连接到物联网平台。Node.js版本开源的SDK源码请见[开源的Node.js库](https://github.com/aliyun/linkedge-thing-access-sdk-nodejs)。
 
 ## Node.js版本设备接入SDK使用说明 {#section_o42_tbs_n2b .section}
 
